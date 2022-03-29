@@ -29,20 +29,19 @@ En cliquant sur le boutons "Afficher l'arborescence du répértoire, on accede a
 * Partie Arborescence :
 
 
-Dans cette partie, On peut visualiser toutes les images de type (PNG, JPG, JPEG, GIF), grâce au système de pagination, de plus on peut supprimer une image à tout moment grâce au bouton de suppression.
-En passant notre souris sur une des images, cette derniere fait un zoom pour la mettre en premier plan.
-On peut aussi se deconnecter ou revenir à la page de téléversement.
-
-![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/catalogue1.PNG) 
-
-![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/catalogue2.png) 
-
+Dans cette partie, On peut visualiser toutes les images de type (PNG, JPG, JPEG, GIF), grâce au système de pagination, de plus on peut supprimer une image à tout moment grâce au bouton de suppression, comme le montre les images suivantes, on voit que l'image disparaît et les autres prennent sa place.
 
 
 ![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/suppression1.PNG) 
 
 ![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/suppression2.PNG)
 
+En passant notre souris sur une des images, cette derniere fait un zoom pour la mettre en premier plan.
+On peut aussi se deconnecter ou revenir à la page de téléversement.
+
+![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/catalogue1.PNG) 
+
+![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/catalogue2.png) 
 
 
 > outils utilisés 

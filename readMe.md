@@ -46,7 +46,6 @@ J'ai utiliser le paquet MAMP sous Windows pour avoir les programmes Apache, PHP 
 
 > Structure des images 
 
+<<<<<<< HEAD
 J'ai organisé l'affichage des images en utilisant du HTML/CSS pour creer une tableau et limiter la taille des images sur le site web
-
-
-
+=======

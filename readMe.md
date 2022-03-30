@@ -19,9 +19,9 @@ L'admin peut aussi supprimé une image en cliquant sur le boutons supprimé, cel
 
 * Partie Téléversement :
 
-Après avoir validé la connexion, l'admin se redirige vers la page de téléversement, dans cette page on peut téléverser des images dans notre base de données.
+Après avoir validé la connexion, l'admin est redirigé vers la page de téléversement, dans cette page on peut téléverser des images dans notre base de données.
 On a aussi un bouton de déconnexion pour pouvoir se déconnecter à tout moment.
-En cliquant sur le boutons "Afficher l'arborescence du répértoire, on accede a l'arborescence du répértoire.
+En cliquant sur le boutons "Afficher l'arborescence du répértoire, on accède a l'arborescence du répértoire.
 
  ![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/accueil.PNG) 
 
@@ -39,9 +39,11 @@ Dans cette partie, On peut visualiser toutes les images de type (PNG, JPG, JPEG,
 En passant notre souris sur une des images, cette derniere fait un zoom pour la mettre en premier plan.
 On peut aussi se deconnecter ou revenir à la page de téléversement.
 
+![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/catalogue2.png) 
+
 ![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/catalogue1.PNG) 
 
-![DEMO](https://github.com/aboughatane/TP3_HYPERMEDIA/blob/main/Capture/catalogue2.png) 
+
 
 
 > outils utilisés 
